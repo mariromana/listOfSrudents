@@ -1,0 +1,40 @@
+{
+    "students": [
+      {
+        "name": "Jonh",
+        "surname": "Smith",
+        "birthday": "11.11.2001",
+        "phone": "+48-111-80-90",
+        "group": "1A"
+      },
+      {
+        "name": "Mathew",
+        "surname": "Jackson",
+        "birthday": "11.11.2001",
+        "phone": "+48-341-45-23",
+        "group": "1G"
+      },
+      {
+        "name": "Jack",
+        "surname": "Pitt",
+        "birthday": "11.11.2001",
+        "phone": "+48-134-17-89",
+        "group": "1B"
+      },
+      {
+        "name": "Jack",
+        "surname": "Daniels",
+        "birthday": "15.01.2000",
+        "phone": "+48-133-88-90",
+        "group": "1C"
+      },
+      {
+        "name": "Natalie",
+        "surname": "Rosse",
+        "birthday": "23.05.1999",
+        "phone": "+48-131-99-99",
+        "group": "1D"
+      }
+    ]
+  
+  }

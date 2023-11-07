@@ -1,0 +1,8 @@
+.app-filter {
+    display: flex;
+    justify-content: start;
+ 
+}
+.app-filter button {
+    max-height: 45px;
+} 

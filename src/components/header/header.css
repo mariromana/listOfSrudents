@@ -1,0 +1,14 @@
+.header {
+    margin: 30px auto 30px auto;
+    padding: 25px;
+    border-radius: 15px;
+    box-shadow: 15px 15px 30px rgba(13,110,253, .2);
+
+  
+}
+.header-title {
+    font-size: 33px;
+}
+.header-descr {
+    font-size: 28px;
+}
